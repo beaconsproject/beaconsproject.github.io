@@ -9,9 +9,31 @@ The [BEACONs Project](https://beaconsproject.ualberta.ca/) was founded at the Un
 * Google Earth Engine code and apps to support disturbance mapping.
 * Documentation to support disturbance mapping and connectivity analyses.
 
+<br>
+
 ## Active Projects
 
-| [Disturbance Mapping Project](https://github.com/beaconsproject/disturbance_mapping) | [Disturbance Mapping Explorer](https://github.com/beaconsproject/rdmexplorer) | [Wolverine Survey Design](https://github.com/prvernier/wolverines) | [Conservation Area Explorer](https://github.com/beaconsproject/conservation_area_explorer) |
-| :---: | :---: | :---: | :---: |
-| <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/rdmexplorer"><img align="center" src="pics/rdmexplorer.png" width="125"></a> | <a href="https://github.com/prvernier/wolverines"><img align="center" src="pics/survey_design.png" width="300"></a> | <a href="https://github.com/beaconsproject/conservation_area_explorer"><img align="center" src="pics/conservation_area_explorer.png" width="300"></a> |
-| Add a description of the disturbance mapping project. | Add a description of the disturbance mapping explorer. | Add a description of the survey design app. | Add a description of the conservation area explorer. |
+| [Disturbance Mapping Project](https://github.com/beaconsproject/disturbance_mapping) | [Connectivity Mapping Project](https://github.com/beaconsproject/connectivity_mapping) | [Survey Design Project](https://github.com/beaconsproject/survey_design) |
+| :---: | :---: | :---: |
+| <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/connectivity_mapping"><img align="center" src="pics/connectivity_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/survey_design"><img align="center" src="pics/survey_design.png" width="300"></a> |
+| Add a description of the disturbance mapping project. | Add a description of the connectivity mapping project. | Add a description of the survey design project. |
+
+<br>
+
+## Shiny Apps
+
+| [Regional Disturbance Explorer](https://github.com/beaconsproject/regional_disturbance_explorer) | [Wolverine Survey Design](https://github.com/prvernier/wolverines) | [Conservation Area Explorer](https://github.com/beaconsproject/conservation_area_explorer) |
+| :---: | :---: | :---: |
+| <a href="https://github.com/beaconsproject/regional_disturbance_explorer"><img align="center" src="pics/regional_disturbance_explorer.png" width="300"></a> | <a href="https://github.com/prvernier/wolverines"><img align="center" src="pics/wolverines.png" width="300"></a> | <a href="https://github.com/beaconsproject/conservation_area_explorer"><img align="center" src="pics/conservation_area_explorer.png" width="300"></a> |
+| Add a description of the disturbance mapping explorer. | Add a description of the wolverine survey design. | Add a description of the conservation area explorer. |
+
+<br>
+
+## R Packages
+
+| [beaconstools](https://github.com/beaconsproject/beaconstools) | [beaconsbuilder](https://github.com/beaconsproject/beaconsbuilder) | [BEACONs-upstream-catchments](https://github.com/beaconsproject/BEACONs-upstream-catchments) |
+| :---: | :---: | :---: |
+| <a href="https://github.com/beaconsproject/beaconstools"><img align="center" src="pics/beaconstools.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconsbuilder"><img align="center" src="pics/beaconsbuilder.png" width="300"></a> | <a href="https://github.com/beaconsproject/BEACONs-upstream-catchments"><img align="center" src="pics/BEACONS-upstream-catchments.png" width="300"></a> |
+| Add a description of the beaconstools R package. | Add a description of the beaconsbuilder R package. | Add a description of the upstreams catchments R package. |
+
+<br>
