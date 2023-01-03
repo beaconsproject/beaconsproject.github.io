@@ -33,7 +33,7 @@ The [BEACONs Project](https://beaconsproject.ualberta.ca/) was founded at the Un
 
 | [beaconstools](https://github.com/beaconsproject/beaconstools) | [beaconsbuilder](https://github.com/beaconsproject/beaconsbuilder) | [BEACONs-upstream-catchments](https://github.com/beaconsproject/BEACONs-upstream-catchments) |
 | :---: | :---: | :---: |
-| <a href="https://github.com/beaconsproject/beaconstools"><img align="center" src="pics/beaconstools.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconsbuilder"><img align="center" src="pics/beaconsbuilder.png" width="300"></a> | <a href="https://github.com/beaconsproject/BEACONs-upstream-catchments"><img align="center" src="pics/BEACONS-upstream-catchments.png" width="300"></a> |
+| <a href="https://github.com/beaconsproject/beaconstools"><img align="center" src="pics/beaconstools.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconsbuilder"><img align="center" src="pics/beaconsbuilder.png" width="300"></a> | <a href="https://github.com/beaconsproject/BEACONs-upstream-catchments"><img align="center" src="pics/BEACONs-upstream-catchments.png" width="300"></a> |
 | Add a description of the beaconstools R package. | Add a description of the beaconsbuilder R package. | Add a description of the upstreams catchments R package. |
 
 <br>
