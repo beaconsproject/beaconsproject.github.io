@@ -12,16 +12,12 @@ Within these pages* we maintain documentation, packages, apps, and code to suppo
 
 For more information regarding the BEACONs Project, please email beacons [at] ualberta.ca.
 
-<br>
-
 ## Active Projects
 
 | [Disturbance Mapping](https://github.com/beaconsproject/disturbance_mapping) | [Connectivity Mapping](https://github.com/beaconsproject/connectivity_mapping) | [Survey Design](https://github.com/beaconsproject/survey_design) |
 | :---: | :---: | :---: |
 | <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/connectivity_mapping"><img align="center" src="pics/connectivity_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/survey_design"><img align="center" src="pics/survey_design.png" width="300"></a> |
 |  |  |  |
-
-<br>
 
 ## Shiny Apps
 
@@ -30,15 +26,11 @@ For more information regarding the BEACONs Project, please email beacons [at] ua
 | <a href="https://github.com/beaconsproject/regional_disturbance_explorer"><img align="center" src="pics/regional_disturbance_explorer.png" width="300"></a> | <a href="https://github.com/prvernier/wolverines"><img align="center" src="pics/wolverines.png" width="300"></a> | <a href="https://github.com/beaconsproject/conservation_area_explorer"><img align="center" src="pics/conservation_area_explorer.png" width="300"></a> |
 |  |  |  |
 
-<br>
-
 ## R Packages
 
 | [beaconstools](https://github.com/beaconsproject/beaconstools) | [beaconsbuilder](https://github.com/beaconsproject/beaconsbuilder) | [BEACONs-upstream-catchments](https://github.com/beaconsproject/BEACONs-upstream-catchments) |
 | :---: | :---: | :---: |
 | <a href="https://github.com/beaconsproject/beaconstools"><img align="center" src="pics/beaconstools.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconsbuilder"><img align="center" src="pics/beaconsbuilder.png" width="300"></a> | <a href="https://github.com/beaconsproject/BEACONs-upstream-catchments"><img align="center" src="pics/BEACONs-upstream-catchments.png" width="300"></a> |
 |  |  |  |
-
-<br>
 
 <sup>* Note that not all pages are publicly available at this time.</sup>
