@@ -9,6 +9,7 @@ Within these pages* we maintain documentation, packages, apps, and code to suppo
 * Documentation related to disturbance mapping, connectivity analysis, and survey design.
 * R/Shiny apps to assist in disturbance mapping, survey design, and conservation area evaluation.
 * R packages to facilitate large scale conservation planning and biodiversity assessment.
+* Supporting material for recent publications.
 
 For more information regarding the BEACONs Project, please email beacons [at] ualberta.ca.
 
@@ -21,9 +22,9 @@ For more information regarding the BEACONs Project, please email beacons [at] ua
 
 ## Shiny Apps
 
-| [Regional Disturbance Explorer](https://github.com/beaconsproject/regional_disturbance_explorer) | [Wolverine Survey Design](https://github.com/prvernier/wolverines) | [Conservation Area Explorer](https://github.com/beaconsproject/conservation_area_explorer) |
+| [Regional Disturbance Explorer](https://github.com/beaconsproject/regional_disturbance_explorer) | [Wolverine Survey Design](https://github.com/beaconsproject/wolverines) | [Conservation Area Explorer](https://github.com/beaconsproject/conservation_area_explorer) |
 | :---: | :---: | :---: |
-| <a href="https://github.com/beaconsproject/regional_disturbance_explorer"><img align="center" src="pics/regional_disturbance_explorer.png" width="300"></a> | <a href="https://github.com/prvernier/wolverines"><img align="center" src="pics/wolverines.png" width="300"></a> | <a href="https://github.com/beaconsproject/conservation_area_explorer"><img align="center" src="pics/conservation_area_explorer.png" width="300"></a> |
+| <a href="https://github.com/beaconsproject/regional_disturbance_explorer"><img align="center" src="pics/regional_disturbance_explorer.png" width="300"></a> | <a href="https://github.com/beaconsproject/wolverines"><img align="center" src="pics/wolverines.png" width="300"></a> | <a href="https://github.com/beaconsproject/conservation_area_explorer"><img align="center" src="pics/conservation_area_explorer.png" width="300"></a> |
 |  |  |  |
 
 ## R Packages
@@ -32,5 +33,12 @@ For more information regarding the BEACONs Project, please email beacons [at] ua
 | :---: | :---: | :---: |
 | <a href="https://github.com/beaconsproject/beaconstools"><img align="center" src="pics/beaconstools.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconsbuilder"><img align="center" src="pics/beaconsbuilder.png" width="300"></a> | <a href="https://github.com/beaconsproject/BEACONs-upstream-catchments"><img align="center" src="pics/BEACONs-upstream-catchments.png" width="300"></a> |
 |  |  |  |
+
+## Publications (supporting material)
+
+- [Insect paper](https://github.com/beaconsproject/insect-mdr-simulation)
+- [Surrogates paper](https://github.com/prvernier/surrogates)
+- [Intactness paper](https://github.com/prvernier/intactness)
+
 
 <sup>* Note that not all pages are publicly available at this time.</sup>
