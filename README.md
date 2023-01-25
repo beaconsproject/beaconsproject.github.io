@@ -14,9 +14,9 @@ For more information regarding the BEACONs Project, please email beacons [at] ua
 
 ## Active Projects
 
-| [Disturbance Mapping](https://github.com/beaconsproject/disturbance_mapping) | [Connectivity Mapping](https://github.com/beaconsproject/connectivity_mapping) | [Survey Design](https://github.com/beaconsproject/survey_design) |
+| [Disturbance Mapping](https://github.com/beaconsproject/disturbance_mapping) | [Connectivity Mapping](https://github.com/beaconsproject/connectivity_mapping) | [Conservation Datasets](https://github.com/beaconsproject/datasets) |
 | :---: | :---: | :---: |
-| <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/connectivity_mapping"><img align="center" src="pics/connectivity_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/survey_design"><img align="center" src="pics/survey_design.png" width="300"></a> |
+| <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/connectivity_mapping"><img align="center" src="pics/connectivity_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/datasets"><img align="center" src="pics/datasets.png" width="300"></a> |
 |  |  |  |
 
 ## Shiny Apps
