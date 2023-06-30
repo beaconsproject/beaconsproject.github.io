@@ -29,9 +29,9 @@ For more information regarding the BEACONs Project, please email beacons [at] ua
 
 ## R Packages
 
-| [beaconstools](https://github.com/beaconsproject/beaconstools) | [beaconsbuilder](https://github.com/beaconsproject/beaconsbuilder) | [BEACONs-upstream-catchments](https://github.com/beaconsproject/BEACONs-upstream-catchments) |
+| [beaconstools](https://github.com/beaconsproject/beaconstools) | [beaconsbuilder](https://github.com/beaconsproject/beaconsbuilder) | [beaconshydro](https://github.com/beaconsproject/beaconshydro) |
 | :---: | :---: | :---: |
-| <a href="https://github.com/beaconsproject/beaconstools"><img align="center" src="pics/beaconstools.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconsbuilder"><img align="center" src="pics/beaconsbuilder.png" width="300"></a> | <a href="https://github.com/beaconsproject/BEACONs-upstream-catchments"><img align="center" src="pics/BEACONs-upstream-catchments.png" width="300"></a> |
+| <a href="https://github.com/beaconsproject/beaconstools"><img align="center" src="pics/beaconstools.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconsbuilder"><img align="center" src="pics/beaconsbuilder.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconshydro"><img align="center" src="pics/BEACONs-upstream-catchments.png" width="300"></a> |
 |  |  |  |
 
 ## Publications (supporting material)
