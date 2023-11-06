@@ -17,7 +17,7 @@ For more information regarding the BEACONs Project, please email beacons [at] ua
 
 | **BEACONs Docs** | **Disturbance Mapping** | **Connectivity Analysis** |
 | :---: | :---: | :---: |
-| <a href="https://github.com/beaconsproject/beacons_docs"><img align="center" src="pics/disturbance_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/connectivity_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/connectivity_analysis"><img align="center" src="pics/datasets.png" width="300"></a> |
+| <a href="https://beaconsproject.github.io/beacons_docs/"><img align="center" src="pics/beacons_docs.jpg" width="300"></a> | <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/connectivity_analysis"><img align="center" src="pics/connectivity_analysis.png" width="300"></a> |
 
 ## Shiny Apps
 
