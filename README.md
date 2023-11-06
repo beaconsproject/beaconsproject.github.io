@@ -5,7 +5,7 @@ title:
 <center><img src="pics/bp_banner.png" alt="BEACONs Project"></center>
 <hr>
 
-## Welcome to the BEACONs Project methods & tools pages
+## Welcome to the methods & tools pages!
 
 The [BEACONs Project](https://beaconsproject.ualberta.ca/) was founded at the University of Alberta in recognition for a new approach to conservation planning in North America's boreal region. We are building a credible scientific framework for comprehensive conservation planning through the development and application of leading-edge conservation science that includes consideration of both protected areas and lands managed for other values. The premise of our research is that the ultimate goal of conservation is to identify human activities that are compatible with the maintenance of biological diversity and integrity of ecological systems. The conceptual scientific framework guiding our research is the Conservation Matrix Model.
 
