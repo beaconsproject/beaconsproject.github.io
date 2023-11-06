@@ -1,3 +1,7 @@
+---
+title: ""
+---
+
 <center><img src="pics/bp_banner.png" alt="BEACONs Project"></center>
 <hr>
 
