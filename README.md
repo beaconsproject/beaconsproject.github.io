@@ -26,7 +26,7 @@ For more information regarding the BEACONs Project, please email beacons [at] ua
 | **Geopackage Creator** | **Disturbance Explorer** | **Hydrology Explorer** |
 |<a href="https://github.com/beaconsproject/geopackage_creator"><img align="center" src="pics/conservation_area_explorer.png" width="300"></a> | <a href="https://github.com/beaconsproject/disturbance_explorer"><img align="center" src="pics/regional_disturbance_explorer.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconshydro_explorer"><img align="center" src="pics/wolverines.png" width="300"></a> |
 | **Conservation Area Explorer** | **Disturbance Validation** | **Wolverine Survey Design** |
-| <a href="https://github.com/beaconsproject/conservation_area_explorer"><img align="center" src="pics/conservation_area_explorer.png" width="300"></a> | <a href="https://github.com/beaconsproject/wolverines"><img align="center" src="pics/regional_disturbance_explorer.png" width="300"></a> | <a href="https://github.com/beaconsproject/conservation_area_explorer"><img align="center" src="pics/wolverines.png" width="300"></a> |
+| <a href="https://github.com/beaconsproject/conservation_area_explorer"><img align="center" src="pics/conservation_area_explorer.png" width="300"></a> | <a href="https://github.com/beaconsproject/disturbance_validation"><img align="center" src="pics/regional_disturbance_explorer.png" width="300"></a> | <a href="https://github.com/beaconsproject/wolverines"><img align="center" src="pics/wolverines.png" width="300"></a> |
 
 ## R Packages
 
