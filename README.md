@@ -1,27 +1,21 @@
 ---
-title: ""
+title:
 ---
 
 <center><img src="pics/bp_banner.png" alt="BEACONs Project"></center>
 <hr>
 
-## Welcome to the BEACONs Project
+## Welcome to the BEACONs Project methods & tools pages
 
 The [BEACONs Project](https://beaconsproject.ualberta.ca/) was founded at the University of Alberta in recognition for a new approach to conservation planning in North America's boreal region. We are building a credible scientific framework for comprehensive conservation planning through the development and application of leading-edge conservation science that includes consideration of both protected areas and lands managed for other values. The premise of our research is that the ultimate goal of conservation is to identify human activities that are compatible with the maintenance of biological diversity and integrity of ecological systems. The conceptual scientific framework guiding our research is the Conservation Matrix Model.
 
-Within these pages* we maintain documentation, packages, apps, and code to support several conservation related initiatives in the boreal region, including:
-* Documentation related to disturbance mapping, connectivity analysis, and survey design.
-* R/Shiny apps to assist in disturbance mapping, survey design, and conservation area evaluation.
+Within these pages we maintain documentation, packages, apps, and code to support several conservation related initiatives in the boreal region, including:
+* R/Shiny apps to assist in conservation planning analysis.
 * R packages to facilitate large scale conservation planning and biodiversity assessment.
-* Supporting material for recent publications.
+* Documentation describing conservation planning workflows, methods, and tools.
+* Bookmarks, presentations, and supporting material from recent publications.
 
 For more information regarding the BEACONs Project, please email beacons [at] ualberta.ca.
-
-## Active Projects
-
-| **BEACONs Docs** | **Disturbance Mapping** | **Connectivity Analysis** |
-| :---: | :---: | :---: |
-| <a href="https://beaconsproject.github.io/beacons_docs/"><img align="center" src="pics/beacons_docs.jpg" width="300"></a> | <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/connectivity_analysis"><img align="center" src="pics/connectivity_analysis.png" width="300"></a> |
 
 ## Shiny Apps
 
@@ -37,6 +31,12 @@ For more information regarding the BEACONs Project, please email beacons [at] ua
 | **beaconstools** | **beaconsbuilder]** | **beaconshydro** |
 | :---: | :---: | :---: |
 | <a href="https://github.com/beaconsproject/beaconstools"><img align="center" src="pics/beaconstools.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconsbuilder"><img align="center" src="pics/beaconsbuilder.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconshydro"><img align="center" src="pics/BEACONs-upstream-catchments.png" width="300"></a> |
+
+## Documentation pages
+
+| **BEACONs Docs** | **Disturbance Mapping** | **Connectivity Analysis** |
+| :---: | :---: | :---: |
+| <a href="https://beaconsproject.github.io/beacons_docs/"><img align="center" src="pics/beacons_docs.jpg" width="300"></a> | <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/connectivity_analysis"><img align="center" src="pics/connectivity_analysis.png" width="300"></a> |
 
 ## Completed Projects
 
