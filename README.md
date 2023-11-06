@@ -19,6 +19,8 @@ For more information regarding the BEACONs Project, please email beacons [at] ua
 | :---: | :---: | :---: |
 | <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/connectivity_mapping"><img align="center" src="pics/connectivity_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/datasets"><img align="center" src="pics/datasets.png" width="300"></a> |
 
+## Shiny Apps
+
 |  |  |  |
 | :---: | :---: | :---: |
 | **Geopackage Creator** | **Disturbance Explorer** | **Hydrology Explorer** |
