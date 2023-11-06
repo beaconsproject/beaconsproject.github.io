@@ -54,12 +54,10 @@ For more information regarding the BEACONs Project, please email beacons [at] ua
 
 Wolverines app (Jan 2023)
 
-- [Powerpoint presentation[(https://drive.google.com/file/d/15REnFhUNNPtEkyuAeVzRciYvhtz50ZDP/view)
+- [Powerpoint presentation](https://drive.google.com/file/d/15REnFhUNNPtEkyuAeVzRciYvhtz50ZDP/view)
 - [App demo](https://www.youtube.com/watch?v=fgQ3PaJIXsg)
 
 BC PARF Forum 2022 (Dec 2022)
 
 - [Regional Disturbance Mapping in SE Yukon and Applications to Conservation Planning](https://cpcil.ca/bcparf-2022-concurrent-conservation-case-studies/)
 - [Applications of Disturbance Mapping to Conservation Planning](https://cpcil.ca/bcparf-2022-concurrent-conservation-case-studies/)
-
-<sup>* Note that not all pages are publicly available at this time.</sup>
