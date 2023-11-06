@@ -15,9 +15,9 @@ For more information regarding the BEACONs Project, please email beacons [at] ua
 
 ## Active Projects
 
-| [Disturbance Mapping](https://github.com/beaconsproject/disturbance_mapping) | [Connectivity Mapping](https://github.com/beaconsproject/connectivity_mapping) | [Conservation Datasets](https://github.com/beaconsproject/datasets) |
+| **BEACONs Docs** | **Disturbance Mapping** | **Connectivity Analysis** |
 | :---: | :---: | :---: |
-| <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/connectivity_mapping"><img align="center" src="pics/connectivity_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/datasets"><img align="center" src="pics/datasets.png" width="300"></a> |
+| <a href="https://github.com/beaconsproject/beacons_docs"><img align="center" src="pics/disturbance_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/connectivity_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/connectivity_analysis"><img align="center" src="pics/datasets.png" width="300"></a> |
 
 ## Shiny Apps
 
@@ -30,15 +30,15 @@ For more information regarding the BEACONs Project, please email beacons [at] ua
 
 ## R Packages
 
-| [beaconstools](https://github.com/beaconsproject/beaconstools) | [beaconsbuilder](https://github.com/beaconsproject/beaconsbuilder) | [beaconshydro](https://github.com/beaconsproject/beaconshydro) |
+| **beaconstools** | **beaconsbuilder]** | **beaconshydro** |
 | :---: | :---: | :---: |
 | <a href="https://github.com/beaconsproject/beaconstools"><img align="center" src="pics/beaconstools.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconsbuilder"><img align="center" src="pics/beaconsbuilder.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconshydro"><img align="center" src="pics/BEACONs-upstream-catchments.png" width="300"></a> |
 
 ## Completed Projects
 
-- Pan-Boreal Assessment (PBA)[https://pba.ualberta.ca]
-- Northwest Boreal (NWB) Assessment [https://nwb.ualberta.ca]
-- SFI App
+- [Pan-Boreal Assessment](https://pba.ualberta.ca)
+- [Northwest Boreal LCC](https://nwb.ualberta.ca)
+- [SFI conservation value assessment tool](https://borealbirds.ca/conservation-value-assessment-tool/)
 
 ## Publications (supporting material)
 
