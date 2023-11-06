@@ -17,16 +17,16 @@ For more information regarding the BEACONs Project, please email beacons [at] ua
 
 | **BEACONs Docs** | **Disturbance Mapping** | **Connectivity Analysis** |
 | :---: | :---: | :---: |
-| <a href="https://github.com/beaconsproject/beacons_docs"><img align="center" src="pics/disturbance_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/connectivity_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/connectivity_analysis"><img align="center" src="pics/datasets.png" width="300"></a> |
+| <a href="https://beaconsproject.github.io/beacons_docs/"><img align="center" src="pics/beacons_docs.jpg" width="300"></a> | <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/connectivity_analysis"><img align="center" src="pics/connectivity_analysis.png" width="300"></a> |
 
 ## Shiny Apps
 
 |  |  |  |
 | :---: | :---: | :---: |
 | **Geopackage Creator** | **Disturbance Explorer** | **Hydrology Explorer** |
-|<a href="https://beaconsproject.shinyapps.io/geopackage_creator/"><img align="center" src="pics/geopackage_creator.jpg" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/disturbance_explorer/"><img align="center" src="pics/regional_disturbance_explorer.png" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/beaconshydro_explorer/"><img align="center" src="pics/hydrology_explorer.jpg" width="300"></a> |
+|<a href="https://beaconsproject.shinyapps.io/geopackage_creator/" target="_blank"><img align="center" src="pics/geopackage_creator.jpg" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/disturbance_explorer/" target="_blank"><img align="center" src="pics/regional_disturbance_explorer.png" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/beaconshydro_explorer/" target="_blank"><img align="center" src="pics/hydrology_explorer.jpg" width="300"></a> |
 | **Conservation Area Explorer** | **Disturbance Validation** | **Wolverine Survey Design** |
-| <a href="https://beaconsproject.shinyapps.io/conservation_area_explorer"><img align="center" src="pics/conservation_area_explorer.png" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/disturbance_validation/"><img align="center" src="pics/disturbance_validation.jpg" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/wolverines/"><img align="center" src="pics/wolverines.png" width="300"></a> |
+| <a href="https://beaconsproject.shinyapps.io/conservation_area_explorer" target="_blank"><img align="center" src="pics/conservation_area_explorer.png" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/disturbance_validation/" target="_blank"><img align="center" src="pics/disturbance_validation.jpg" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/wolverines/" target="_blank"><img align="center" src="pics/wolverines.png" width="300"></a> |
 
 ## R Packages
 
