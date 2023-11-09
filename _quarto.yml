@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "BEACONs Tools"
+  image: "pics/bp_banner.png"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Data"
+        menu:
+          - href: data/yt_data.qmd
+            text: Yukon    
+          - href: data/bc_data.qmd
+            text: BC
+          - href: data/nhn.qmd
+            text: NHN
+          - href: data/landcover.qmd
+            text: Landcover
+      - text: "Methods"
+        menu:
+        - href: methods.qmd
+          text: Workflow
+        - text: Mapping templates
+        - text: ValidationApp
+      - text: "Projects"
+        menu:
+        - href: projects.qmd
+        - text: mapping_status.qmd
+      - text: "Resources"
+        menu:
+        - href: resources.qmd
+        - text: Resources
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
