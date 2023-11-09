@@ -15,16 +15,17 @@ For more information regarding the BEACONs Project, please email beacons [at] ua
 
 ## Shiny Apps
 
-|  |  |  |
-| :---: | :---: | :---: |
 | **Geopackage Creator** | **Disturbance Explorer** | **Hydrology Explorer** |
+| :---: | :---: | :---: |
 |<a href="https://beaconsproject.shinyapps.io/geopackage_creator/" target="_blank"><img align="center" src="pics/geopackage_creator.jpg" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/disturbance_explorer/" target="_blank"><img align="center" src="pics/regional_disturbance_explorer.png" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/beaconshydro_explorer/" target="_blank"><img align="center" src="pics/hydrology_explorer.jpg" width="300"></a> |
+
 | **Conservation Area Explorer** | **Disturbance Validation** | **Wolverine Survey Design** |
+| :---: | :---: | :---: |
 | <a href="https://beaconsproject.shinyapps.io/conservation_area_explorer" target="_blank"><img align="center" src="pics/conservation_area_explorer.png" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/disturbance_validation/" target="_blank"><img align="center" src="pics/disturbance_validation.jpg" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/wolverines/" target="_blank"><img align="center" src="pics/wolverines.png" width="300"></a> |
 
 ## R Packages
 
-| **beaconstools** | **beaconsbuilder]** | **beaconshydro** |
+| **beaconstools** | **beaconsbuilder** | **beaconshydro** |
 | :---: | :---: | :---: |
 | <a href="https://github.com/beaconsproject/beaconstools"><img align="center" src="pics/beaconstools.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconsbuilder"><img align="center" src="pics/beaconsbuilder.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconshydro"><img align="center" src="pics/BEACONs-upstream-catchments.png" width="300"></a> |
 
