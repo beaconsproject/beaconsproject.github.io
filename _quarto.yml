@@ -24,16 +24,30 @@ website:
         menu:
         - href: methods.qmd
           text: Workflow
-        - text: Mapping templates
-        - text: ValidationApp
-      - text: "Projects"
+      - text: "Tools"
         menu:
-        - href: projects.qmd
-        - text: mapping_status.qmd
-      - text: "Resources"
-        menu:
-        - href: resources.qmd
-        - text: Resources
+        - text: "SHINY APPS:"
+        - href: https://github.com/beaconsproject/geopackage_creator
+          text: Geopackage Creator
+        - href: https://github.com/beaconsproject/disturbance_explorer
+          text: Disturbance Explorer
+        - href: https://github.com/beaconsproject/beaconshydro_explorer
+          text: Hydrology Explorer
+        - href: https://github.com/beaconsproject/conservation_area_explorer
+          text: Conservation Area Explorer
+        - href: https://github.com/beaconsproject/disturbance_validation
+          text: Disturbance Validation
+        - href: https://github.com/beaconsproject/wolverines
+          text: Wolverine Survey Design
+        - text: "---"
+        - text: "PACKAGES:"
+        - href: https://github.com/beaconsproject/beaconstools
+          text: beaconstools
+        - href: https://github.com/beaconsproject/beaconsbuilder
+          text: beaconsbuilder
+        - href: https://github.com/beaconsproject/beaconshydro
+          text: beaconshydro
+      - href: resources.qmd
 
 format:
   html:

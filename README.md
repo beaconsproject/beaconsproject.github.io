@@ -1,39 +1,38 @@
 <center><img src="pics/bp_banner.png" alt="BEACONs Project"></center>
 <hr>
 
-## Welcome to the methods & tools pages!
+**Welcome to the BEACONs tools pages!**
 
 The [BEACONs Project](https://beaconsproject.ualberta.ca/) was founded at the University of Alberta in recognition for a new approach to conservation planning in North America's boreal region. We are building a credible scientific framework for comprehensive conservation planning through the development and application of leading-edge conservation science that includes consideration of both protected areas and lands managed for other values. The premise of our research is that the ultimate goal of conservation is to identify human activities that are compatible with the maintenance of biological diversity and integrity of ecological systems. The conceptual scientific framework guiding our research is the Conservation Matrix Model.
 
-Within these pages we maintain documentation, packages, apps, and code to support several conservation related initiatives in the boreal region, including:
-* R/Shiny apps to assist in conservation planning analysis.
-* R packages to facilitate large scale conservation planning and biodiversity assessment.
-* Documentation describing conservation planning workflows, methods, and tools.
-* Bookmarks, presentations, and supporting material from recent publications.
+Within these pages we provide information on the data, methods, and tools that we use for large-scale conservation planning in the boreal region, including:
 
-For more information regarding the BEACONs Project, please email beacons [at] ualberta.ca.
+- R/Shiny apps to assist in conservation planning and assessment.
+- R packages to facilitate large scale conservation planning.
+- Documentation describing the data, methods, and tools.
+- Resources such as bookmarks, presentations, and supporting material from publications.
 
-## Shiny Apps
+**Shiny Apps**
 
-| **Geopackage Creator** | **Disturbance Explorer** | **Hydrology Explorer** |
+| Geopackage Creator | Disturbance Explorer | Hydrology Explorer |
 | :---: | :---: | :---: |
-|<a href="https://beaconsproject.shinyapps.io/geopackage_creator/" target="_blank"><img align="center" src="pics/geopackage_creator.jpg" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/disturbance_explorer/" target="_blank"><img align="center" src="pics/regional_disturbance_explorer.png" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/beaconshydro_explorer/" target="_blank"><img align="center" src="pics/hydrology_explorer.jpg" width="300"></a> |
+|<a href="https://beaconsproject.shinyapps.io/geopackage_creator/" target="_blank"><img align="center" src="pics/geopackage_creator.png" width="250"></a> | <a href="https://beaconsproject.shinyapps.io/disturbance_explorer/" target="_blank"><img align="center" src="pics/disturbance_explorer.png" width="250"></a> | <a href="https://beaconsproject.shinyapps.io/beaconshydro_explorer/" target="_blank"><img align="center" src="pics/hydrology_explorer.png" width="250"></a> |
 
-| **Conservation Area Explorer** | **Disturbance Validation** | **Wolverine Survey Design** |
+| Conservation Area Explorer | Disturbance Validation | Wolverine Survey Design |
 | :---: | :---: | :---: |
-| <a href="https://beaconsproject.shinyapps.io/conservation_area_explorer" target="_blank"><img align="center" src="pics/conservation_area_explorer.png" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/disturbance_validation/" target="_blank"><img align="center" src="pics/disturbance_validation.jpg" width="300"></a> | <a href="https://beaconsproject.shinyapps.io/wolverines/" target="_blank"><img align="center" src="pics/wolverines.png" width="300"></a> |
+| <a href="https://beaconsproject.shinyapps.io/conservation_area_explorer" target="_blank"><img align="center" src="pics/conservation_area_explorer.png" width="250"></a> | <a href="https://beaconsproject.shinyapps.io/disturbance_validation/" target="_blank"><img align="center" src="pics/disturbance_validation.png" width="250"></a> | <a href="https://beaconsproject.shinyapps.io/wolverines/" target="_blank"><img align="center" src="pics/wolverines_survey.png" width="250"></a> |
 
-## R Packages
+**R Packages**
 
-| **beaconstools** | **beaconsbuilder** | **beaconshydro** |
+| beaconstools | beaconsbuilder | beaconshydro |
 | :---: | :---: | :---: |
-| <a href="https://github.com/beaconsproject/beaconstools"><img align="center" src="pics/beaconstools.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconsbuilder"><img align="center" src="pics/beaconsbuilder.png" width="300"></a> | <a href="https://github.com/beaconsproject/beaconshydro"><img align="center" src="pics/BEACONs-upstream-catchments.png" width="300"></a> |
+| <a href="https://github.com/beaconsproject/beaconstools"><img align="center" src="pics/beaconstools.png" width="250"></a> | <a href="https://github.com/beaconsproject/beaconsbuilder"><img align="center" src="pics/beaconsbuilder.png" width="250"></a> | <a href="https://github.com/beaconsproject/beaconshydro"><img align="center" src="pics/beaconshydro.png" width="250"></a> |
 
-## Documentation pages
+**Documentation pages**
 
-| **BEACONs Docs** | **Disturbance Mapping** | **Connectivity Analysis** |
+| BEACONs Docs | Disturbance Mapping | Connectivity Analysis |
 | :---: | :---: | :---: |
-| <a href="https://beaconsproject.github.io/beacons_docs/"><img align="center" src="pics/beacons_docs.jpg" width="300"></a> | <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="300"></a> | <a href="https://github.com/beaconsproject/connectivity_analysis"><img align="center" src="pics/connectivity_analysis.png" width="300"></a> |
+| <a href="https://beaconsproject.github.io/beacons_docs/"><img align="center" src="pics/beacons_docs.png" width="250"></a> | <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="250"></a> | <a href="https://github.com/beaconsproject/connectivity_analysis"><img align="center" src="pics/connectivity_analysis.png" width="250"></a> |
 
 ## Completed Projects
 

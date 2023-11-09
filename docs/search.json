@@ -1,9 +1,86 @@
 [
   {
+    "objectID": "tools/geopackage_explorer.html",
+    "href": "tools/geopackage_explorer.html",
+    "title": "Geopackage Creator",
+    "section": "",
+    "text": "Geopackage Creator\nNovember 6, 2023\nThis repo contains an R/Shiny app to assist users in creating a geopackage file required for use with the BEACONs Disturbance Explorer app. The app can be used to create a data package for a study area located within the Yukon and British Columbia. Only one source of data, located in the www folder, is needed to use the app: bp_datasets.gpkg. All data layers within a geopackage should be in the same coordinate reference system (CRS). Currently, EPSG 3578 (Yukon Albers) is the only CRS used. Some R scripts are also provided in the code folder for more advanced users.\nThe app is located at: https://beaconsproject.shinyapps.io/geopackage_creator"
+  },
+  {
+    "objectID": "methods.html",
+    "href": "methods.html",
+    "title": "Workflow",
+    "section": "",
+    "text": "clickable flowchart"
+  },
+  {
+    "objectID": "methods.html#step-1",
+    "href": "methods.html#step-1",
+    "title": "Workflow",
+    "section": "Step 1",
+    "text": "Step 1"
+  },
+  {
+    "objectID": "methods.html#step-2",
+    "href": "methods.html#step-2",
+    "title": "Workflow",
+    "section": "Step 2",
+    "text": "Step 2"
+  },
+  {
+    "objectID": "methods.html#step-3",
+    "href": "methods.html#step-3",
+    "title": "Workflow",
+    "section": "Step 3",
+    "text": "Step 3"
+  },
+  {
+    "objectID": "methods.html#step-4",
+    "href": "methods.html#step-4",
+    "title": "Workflow",
+    "section": "Step 4",
+    "text": "Step 4"
+  },
+  {
+    "objectID": "methods.html#step-5",
+    "href": "methods.html#step-5",
+    "title": "Workflow",
+    "section": "Step 5",
+    "text": "Step 5"
+  },
+  {
+    "objectID": "methods.html#step-6",
+    "href": "methods.html#step-6",
+    "title": "Workflow",
+    "section": "Step 6",
+    "text": "Step 6"
+  },
+  {
+    "objectID": "methods.html#step-7",
+    "href": "methods.html#step-7",
+    "title": "Workflow",
+    "section": "Step 7",
+    "text": "Step 7"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "BEACONs Tools",
     "section": "",
-    "text": "Welcome to the BEACONs tools pages!\nThe BEACONs Project was founded at the University of Alberta in recognition for a new approach to conservation planning in North America’s boreal region. We are building a credible scientific framework for comprehensive conservation planning through the development and application of leading-edge conservation science that includes consideration of both protected areas and lands managed for other values. The premise of our research is that the ultimate goal of conservation is to identify human activities that are compatible with the maintenance of biological diversity and integrity of ecological systems. The conceptual scientific framework guiding our research is the Conservation Matrix Model.\nWithin these pages we maintain documentation, packages, apps, and code to support several conservation related initiatives in the boreal region, including: * R/Shiny apps to assist in conservation planning analysis. * R packages to facilitate large scale conservation planning and biodiversity assessment. * Documentation describing conservation planning workflows, methods, and tools. * Bookmarks, presentations, and supporting material from recent publications.\nFor more information regarding the BEACONs Project, please email beacons [at] ualberta.ca.\nShiny Apps\n\n\n\n\n\n\n\n\nGeopackage Creator\nDisturbance Explorer\nHydrology Explorer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nConservation Area Explorer\nDisturbance Validation\nWolverine Survey Design\n\n\n\n\n\n\n\n\n\n\nR Packages\n\n\n\n\n\n\n\n\nbeaconstools\nbeaconsbuilder\nbeaconshydro\n\n\n\n\n\n\n\n\n\n\nDocumentation pages\n\n\n\n\n\n\n\n\nBEACONs Docs\nDisturbance Mapping\nConnectivity Analysis\n\n\n\n\n\n\n\n\n\n\nCompleted Projects\n\nPan-Boreal Assessment\nNorthwest Boreal LCC\nSFI conservation value assessment tool\n\nPublications (supporting material)\n\nInsect paper\nSurrogates paper\nIntactness paper\n\nPresentations\nWolverines app (Jan 2023)\n\nPowerpoint presentation\nApp demo\n\nBC PARF Forum 2022 (Dec 2022)\n\nRegional Disturbance Mapping in SE Yukon and Applications to Conservation Planning\nApplications of Disturbance Mapping to Conservation Planning"
+    "text": "Welcome to the BEACONs tools pages!\nThe BEACONs Project was founded at the University of Alberta in recognition for a new approach to conservation planning in North America’s boreal region. We are building a credible scientific framework for comprehensive conservation planning through the development and application of leading-edge conservation science that includes consideration of both protected areas and lands managed for other values. The premise of our research is that the ultimate goal of conservation is to identify human activities that are compatible with the maintenance of biological diversity and integrity of ecological systems. The conceptual scientific framework guiding our research is the Conservation Matrix Model.\nWithin these pages we provide information on the data, methods, and tools that we use for large-scale conservation planning in the boreal region, including:\n\nR/Shiny apps to assist in conservation planning and assessment.\nR packages to facilitate large scale conservation planning.\nDocumentation describing the data, methods, and tools.\nResources such as bookmarks, presentations, and supporting material from publications.\n\nShiny Apps\n\n\n\n\n\n\n\n\nGeopackage Creator\nDisturbance Explorer\nHydrology Explorer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nConservation Area Explorer\nDisturbance Validation\nWolverine Survey Design\n\n\n\n\n\n\n\n\n\n\nR Packages\n\n\n\n\n\n\n\n\nbeaconstools\nbeaconsbuilder\nbeaconshydro\n\n\n\n\n\n\n\n\n\n\nDocumentation pages\n\n\n\n\n\n\n\n\nBEACONs Docs\nDisturbance Mapping\nConnectivity Analysis"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "BEACONs Tools",
+    "section": "",
+    "text": "Pan-Boreal Assessment\nNorthwest Boreal LCC\nSFI conservation value assessment tool\n\n\n\n\n\nInsect paper\nSurrogates paper\nIntactness paper\n\n\n\n\nWolverines app (Jan 2023)\n\nPowerpoint presentation\nApp demo\n\nBC PARF Forum 2022 (Dec 2022)\n\nRegional Disturbance Mapping in SE Yukon and Applications to Conservation Planning\nApplications of Disturbance Mapping to Conservation Planning"
+  },
+  {
+    "objectID": "resources.html#resources",
+    "href": "resources.html#resources",
+    "title": "BEACONs Tools",
+    "section": "",
+    "text": "Pan-Boreal Assessment\nNorthwest Boreal LCC\nSFI conservation value assessment tool\n\n\n\n\n\nInsect paper\nSurrogates paper\nIntactness paper\n\n\n\n\nWolverines app (Jan 2023)\n\nPowerpoint presentation\nApp demo\n\nBC PARF Forum 2022 (Dec 2022)\n\nRegional Disturbance Mapping in SE Yukon and Applications to Conservation Planning\nApplications of Disturbance Mapping to Conservation Planning"
   }
 ]
