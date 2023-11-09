@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>BEACONs Tools</title>
+<title>BEACONs Tools - Intactness mapping</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,22 +23,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,7 +67,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -77,7 +77,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">BEACONs Tools</span>
     </a>
   </div>
@@ -88,7 +88,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -97,11 +97,11 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-data">    
         <li>
-    <a class="dropdown-item" href="./data/yt_data.html">
+    <a class="dropdown-item" href="../data/yt_data.html">
  <span class="dropdown-text">Yukon</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./data/bc_data.html">
+    <a class="dropdown-item" href="../data/bc_data.html">
  <span class="dropdown-text">BC</span></a>
   </li>  
     </ul>
@@ -112,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-methods">    
         <li>
-    <a class="dropdown-item" href="./methods/intactness.html">
+    <a class="dropdown-item" href="../methods/intactness.html">
  <span class="dropdown-text">Intactness mapping</span></a>
   </li>  
     </ul>
@@ -164,7 +164,7 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./resources.html"> 
+    <a class="nav-link" href="../resources.html"> 
 <span class="menu-text">Resources</span></a>
   </li>  
 </ul>
@@ -179,116 +179,84 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#workflow-mapping-intactness-and-footprint" id="toc-workflow-mapping-intactness-and-footprint" class="nav-link active" data-scroll-target="#workflow-mapping-intactness-and-footprint">Workflow: Mapping intactness and footprint</a></li>
+  <li><a href="#step-1.-define-study-area-and-objectives" id="toc-step-1.-define-study-area-and-objectives" class="nav-link" data-scroll-target="#step-1.-define-study-area-and-objectives">Step 1. Define study area and objectives</a></li>
+  <li><a href="#step-2.-create-geopackage-for-study-area" id="toc-step-2.-create-geopackage-for-study-area" class="nav-link" data-scroll-target="#step-2.-create-geopackage-for-study-area">Step 2. Create geopackage for study area</a></li>
+  <li><a href="#step-3.-define-minimum-patch-size-and-buffers-of-influence" id="toc-step-3.-define-minimum-patch-size-and-buffers-of-influence" class="nav-link" data-scroll-target="#step-3.-define-minimum-patch-size-and-buffers-of-influence">Step 3. Define minimum patch size and buffers of influence</a></li>
+  <li><a href="#step-4.-map-landscape-footprint-and-intactness" id="toc-step-4.-map-landscape-footprint-and-intactness" class="nav-link" data-scroll-target="#step-4.-map-landscape-footprint-and-intactness">Step 4. Map landscape footprint and intactness</a></li>
+  <li><a href="#step-5.-export-footprint-and-intactness-maps" id="toc-step-5.-export-footprint-and-intactness-maps" class="nav-link" data-scroll-target="#step-5.-export-footprint-and-intactness-maps">Step 5. Export footprint and intactness maps</a></li>
+  <li><a href="#repeat-using-different-buffer-width-and-minimum-patch-sizes-optional" id="toc-repeat-using-different-buffer-width-and-minimum-patch-sizes-optional" class="nav-link" data-scroll-target="#repeat-using-different-buffer-width-and-minimum-patch-sizes-optional">Repeat using different buffer width and minimum patch sizes (optional)</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Intactness mapping</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="workflow-mapping-intactness-and-footprint" class="level2">
+<h2 class="anchored" data-anchor-id="workflow-mapping-intactness-and-footprint">Workflow: Mapping intactness and footprint</h2>
+<p>There are a number of possible applications including using the disturbance map, including to: i) create a landscape intactness or human footprint map; ii) evaluate the effects of cumulative disturbances on focal species or ecosytems; iii) create a resitance or permeability map for connectivity analysis, or iv)assist in the design of field surveys e.g., to evaluate the impacts of mining of caribou. In this section, we focus on the first example, which consists of five broad steps:</p>
+<ol type="1">
+<li>Define study area and objectives</li>
+<li>Create geopackage for study area</li>
+<li>Define minimum patch size and buffers of influence</li>
+<li>Map landscape footprint and intactness</li>
+<li>Export footprint and intactness maps</li>
+</ol>
+<p>Optionally, depending on the conservation planning objectives, the last three steps can be repeated using different buffer width and minimum patch sizes.</p>
+<p>The flowchart below provides an overview of the intactness mapping workflow and its five steps. Each step is then described in more detail in the following paragraphs.</p>
 <center>
-<img src="pics/bp_banner.png" alt="BEACONs Project">
+<img src="pics/intactness.png" width="600"> <br><em>Figure 1. Flowchart outlining the five steps used to map landscape intactness and human footprint for a study area of interest.</em><br><br>
 </center>
-<hr>
-<p><strong>Welcome to the BEACONs tools pages!</strong></p>
-<p>The <a href="https://beaconsproject.ualberta.ca/">BEACONs Project</a> was founded at the University of Alberta in recognition for a new approach to conservation planning in North America’s boreal region. We are building a credible scientific framework for comprehensive conservation planning through the development and application of leading-edge conservation science that includes consideration of both protected areas and lands managed for other values. The premise of our research is that the ultimate goal of conservation is to identify human activities that are compatible with the maintenance of biological diversity and integrity of ecological systems. The conceptual scientific framework guiding our research is the Conservation Matrix Model.</p>
-<p>Within these pages we provide information on the data, methods, and tools that we use for large-scale conservation planning in the boreal region, including:</p>
-<ul>
-<li>R/Shiny apps to assist in conservation planning and assessment.</li>
-<li>R packages to facilitate large scale conservation planning.</li>
-<li>Documentation describing the data, methods, and tools.</li>
-<li>Resources such as bookmarks, presentations, and supporting material from publications.</li>
-</ul>
-<p><strong>Shiny Apps</strong></p>
-<table class="table">
-<colgroup>
-<col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 33%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;">Geopackage Creator</th>
-<th style="text-align: center;">Disturbance Explorer</th>
-<th style="text-align: center;">Hydrology Explorer</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"><a href="https://beaconsproject.shinyapps.io/geopackage_creator/" target="_blank"><img align="center" src="pics/geopackage_creator.png" width="250"></a></td>
-<td style="text-align: center;"><a href="https://beaconsproject.shinyapps.io/disturbance_explorer/" target="_blank"><img align="center" src="pics/disturbance_explorer.png" width="250"></a></td>
-<td style="text-align: center;"><a href="https://beaconsproject.shinyapps.io/beaconshydro_explorer/" target="_blank"><img align="center" src="pics/hydrology_explorer.png" width="250"></a></td>
-</tr>
-</tbody>
-</table>
-<table class="table">
-<colgroup>
-<col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 33%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;">Conservation Area Explorer</th>
-<th style="text-align: center;">Disturbance Validation</th>
-<th style="text-align: center;">Wolverine Survey Design</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"><a href="https://beaconsproject.shinyapps.io/conservation_area_explorer" target="_blank"><img align="center" src="pics/conservation_area_explorer.png" width="250"></a></td>
-<td style="text-align: center;"><a href="https://beaconsproject.shinyapps.io/disturbance_validation/" target="_blank"><img align="center" src="pics/disturbance_validation.png" width="250"></a></td>
-<td style="text-align: center;"><a href="https://beaconsproject.shinyapps.io/wolverines/" target="_blank"><img align="center" src="pics/wolverines_survey.png" width="250"></a></td>
-</tr>
-</tbody>
-</table>
-<p><strong>R Packages</strong></p>
-<table class="table">
-<colgroup>
-<col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 33%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;">beaconstools</th>
-<th style="text-align: center;">beaconsbuilder</th>
-<th style="text-align: center;">beaconshydro</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"><a href="https://github.com/beaconsproject/beaconstools"><img align="center" src="pics/beaconstools.png" width="250"></a></td>
-<td style="text-align: center;"><a href="https://github.com/beaconsproject/beaconsbuilder"><img align="center" src="pics/beaconsbuilder.png" width="250"></a></td>
-<td style="text-align: center;"><a href="https://github.com/beaconsproject/beaconshydro"><img align="center" src="pics/beaconshydro.png" width="250"></a></td>
-</tr>
-</tbody>
-</table>
-<p><strong>Documentation pages</strong></p>
-<table class="table">
-<colgroup>
-<col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 33%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;">BEACONs Docs</th>
-<th style="text-align: center;">Disturbance Mapping</th>
-<th style="text-align: center;">Connectivity Analysis</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"><a href="https://beaconsproject.github.io/beacons_docs/"><img align="center" src="pics/beacons_docs.png" width="250"></a></td>
-<td style="text-align: center;"><a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="250"></a></td>
-<td style="text-align: center;"><a href="https://github.com/beaconsproject/connectivity_analysis"><img align="center" src="pics/connectivity_analysis.png" width="250"></a></td>
-</tr>
-</tbody>
-</table>
+</section>
+<section id="step-1.-define-study-area-and-objectives" class="level2">
+<h2 class="anchored" data-anchor-id="step-1.-define-study-area-and-objectives">Step 1. Define study area and objectives</h2>
+<p>The first step is to define a study area and objectives. Some thought should also be given for the objectives of this analysis. For example, is the objective to create one intactness and footprint map based on predefined buffers? Or, is the objective to do a sensitivity analysis to evaluate the effects of changing buffer sizes and minimum patch sizes on estimates of landscape intactness?</p>
+</section>
+<section id="step-2.-create-geopackage-for-study-area" class="level2">
+<h2 class="anchored" data-anchor-id="step-2.-create-geopackage-for-study-area">Step 2. Create geopackage for study area</h2>
+<p>Once a study area polygon has been defined, it can be used with the Geopackage Creator to create all of the data layers needed to create landscape intactness and footprint maps. More information on using the app is provided in the Geopackage Creator page of the Shiny Apps section of this website. Once the geopackage is ready, you can start the Disturbance Explorer and go to step 3.</p>
+</section>
+<section id="step-3.-define-minimum-patch-size-and-buffers-of-influence" class="level2">
+<h2 class="anchored" data-anchor-id="step-3.-define-minimum-patch-size-and-buffers-of-influence">Step 3. Define minimum patch size and buffers of influence</h2>
+<p>Here we provide a brief description of this step. For additional details on how to do this with the Disturbance Explorer app, go to its page in the Shiny Apps section. This step consists of two related tasks: 1) Define buffer sizes of influence for each disturbance type (linear, areal) and 2) Specify minimum patch size (and shape) to qualify as intact. To achieve the first task, each anthropogenic disturbance type needs to be assigned a buffer size of influence based on its spatial extent and ecological impact. To achieve the second task, the minimum size required for an intact landscape patch also needs to be defined to differentiate between fragmented and relatively undisturbed areas.</p>
+</section>
+<section id="step-4.-map-landscape-footprint-and-intactness" class="level2">
+<h2 class="anchored" data-anchor-id="step-4.-map-landscape-footprint-and-intactness">Step 4. Map landscape footprint and intactness</h2>
+<p>A landscape intactness (and footprint) map can be generated in one of three ways: i) using QGIS, ii) using R code, or iii) using the accompanying R/Shiny app. For now, we focus on the third method but may provide more details about the first two methods in the future. Using the Disturbance Explorer app (see relevant Shiny Apps section), it is possible to create intactness and footprint maps for any region within the Yukon and northern BC.</p>
+</section>
+<section id="step-5.-export-footprint-and-intactness-maps" class="level2">
+<h2 class="anchored" data-anchor-id="step-5.-export-footprint-and-intactness-maps">Step 5. Export footprint and intactness maps</h2>
+<p>Using the Disturbance Explorer app, the resulting footprint and intactness maps can then be saved as layers within a geopackage using either of the 3 approaches.</p>
+</section>
+<section id="repeat-using-different-buffer-width-and-minimum-patch-sizes-optional" class="level2">
+<h2 class="anchored" data-anchor-id="repeat-using-different-buffer-width-and-minimum-patch-sizes-optional">Repeat using different buffer width and minimum patch sizes (optional)</h2>
+<p>An optional, but recommended ,step is to repeat the procedure of generating intactness and footprint maps using varying buffer sizes and minimum patch sizes to assess the sensitivity of the results to these parameters.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

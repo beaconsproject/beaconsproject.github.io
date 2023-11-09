@@ -16,14 +16,10 @@ website:
             text: Yukon    
           - href: data/bc_data.qmd
             text: BC
-          - href: data/nhn.qmd
-            text: NHN
-          - href: data/landcover.qmd
-            text: Landcover
       - text: "Methods"
         menu:
-        - href: methods.qmd
-          text: Workflow
+        - href: methods/intactness.qmd
+          text: Intactness mapping
       - text: "Tools"
         menu:
         - text: "SHINY APPS:"
