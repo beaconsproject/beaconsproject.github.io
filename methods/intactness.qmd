@@ -42,4 +42,4 @@ Using the Disturbance Explorer app, the resulting footprint and intactness maps 
 
 ## Repeat using different buffer width and minimum patch sizes (optional)
 
-An optional, but recommended ,step is to repeat the procedure of generating intactness and footprint maps using varying buffer sizes and minimum patch sizes to assess the sensitivity of the results to these parameters. 
+An optional, but recommended, step is to repeat the procedure of generating intactness and footprint maps using varying buffer sizes and minimum patch sizes to assess the sensitivity of the results to these parameters. 
