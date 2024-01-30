@@ -12,6 +12,8 @@ Within these pages we provide information on the data, methods, and tools that w
 - Documentation describing the data, methods, and tools.
 - Resources such as bookmarks, presentations, and supporting material from publications.
 
+<br>
+
 **Shiny Apps**
 
 | Geopackage Creator | Disturbance Explorer | Hydrology Explorer |
@@ -22,13 +24,15 @@ Within these pages we provide information on the data, methods, and tools that w
 | :---: | :---: | :---: |
 | <a href="https://beaconsproject.shinyapps.io/conservation_area_explorer_v2" target="_blank"><img align="center" src="pics/conservation_area_explorer.png" width="250" height="165"></a> | <a href="https://beaconsproject.shinyapps.io/kdtt_viewer/" target="_blank"><img align="center" src="pics/kdtt_viewer.png" width="250" height="165"></a> | <a href="https://beaconsproject.shinyapps.io/wolverines/" target="_blank"><img align="center" src="pics/wolverines_survey.png" width="250" height="165"></a> |
 
-**Shiny Apps (development)**
+<br>
+
+**Shiny Apps (under development)**
 
 | Disturbance Validation | | |
 | :---: | :---: | :---: |
 | <a href="https://beaconsproject.shinyapps.io/disturbance_validation" target="_blank"><img align="center" src="pics/disturbance_validation.png" width="250" height="165"></a> | | |
 
-
+<br>
 
 **R Packages**
 
@@ -40,6 +44,8 @@ Within these pages we provide information on the data, methods, and tools that w
   <img align="center" src="pics/beaconsbuilder.png" width="250"></a> 
 | <a href="https://github.com/beaconsproject/beaconshydro">
   <img align="center" src="pics/beaconshydro.png" width="250"></a> |
+
+<br>
 
 **Documentation pages**
 
