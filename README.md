@@ -16,7 +16,7 @@ Within these pages we provide information on the data, methods, and tools that w
 
 | Geopackage Creator | Disturbance Explorer | Hydrology Explorer |
 | :---: | :---: | :---: |
-|<a href="https://beaconsproject.shinyapps.io/geopackage_creator/" target="_blank"><img align="center" src="pics/geopackage_creator.png" width="250"></a> | <a href="https://beaconsproject.shinyapps.io/disturbance_explorer/" target="_blank"><img align="center" src="pics/disturbance_explorer.png" width="250"></a> | <a href="https://beaconsproject.shinyapps.io/beaconshydro_explorer/" target="_blank"><img align="center" src="pics/hydrology_explorer.png" width="250"></a> |
+|<a href="https://beaconsproject.shinyapps.io/geopackage_creator/" target="_blank"><img align="center" src="pics/geopackage_creator.png" width="250"></a> | <a href="https://beaconsproject.shinyapps.io/disturbance_explorer/" target="_blank"><img align="center" src="pics/disturbance_explorer.png" width="250"></a> | <a href="https://beaconsproject.shinyapps.io/beaconshydro_explorer_v2_beta/" target="_blank"><img align="center" src="pics/hydrology_explorer.png" width="250"></a> |
 
 | Conservation Area Explorer | Disturbance Validation | Wolverine Survey Design |
 | :---: | :---: | :---: |
