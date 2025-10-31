@@ -26,6 +26,11 @@ Within these pages, we provide information on tools and methods that we use for 
 | <a href="https://beaconsproject.shinyapps.io/disturbance_validation/" target="_blank"><img align="center" src="pics/disturbance_validation.png" width="250"></a> | <a href="https://beaconsproject.shinyapps.io/wolverines/" target="_blank"><img align="center" src="pics/wolverines_survey.png" width="250"></a> |
 <br>
 
+We have additional Shiny Apps under-development: 
+- **KBA or Conservation Area Explorer**: This app designs new conservation areas and evaluates and designs conservation area networks based on new and/or existing conservation areas. Functions include evaluation of intactness, size, hydrologic connectivity, upstream areas, and representation.
+- **Movement Mapper** and **Movement Explorer**: These apps use animal location data to identify areas of annual & seasonal use and migration pathways. 
+<br>
+
 ## R Functions
 
 We will soon release a suite of R Tools that includes the following function categories: 
@@ -37,15 +42,13 @@ We will soon release a suite of R Tools that includes the following function cat
 
 ## Software
 
-**Builder** is a user-friendly software application developed in C# .NET framework that assembles catchments using hydrology-based rules to identify conservation areas based on hydrologic connectivity, intactness, and size.
+**Builder** is a user-friendly software application developed in C# .NET framework that assembles catchments using hydrology-based rules to identify conservation areas based on hydrologic connectivity, intactness, and size. If this software is of interest, please email beacons[at]ualberta.ca.
 <br><br>
 
 ## QGIS Plugins
 
-| Catchment Toolbox |
-| :---: |
-| <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="250"></a> | 
-<br>
+We will soon release a QGIS plugin and tutorial for creating a catchment dataset with stream flow attributes that work with BEACONs' Builder software and Shiny Apps (e.g., Hydrology Explorer).
+<br><br>
 
 ## Methods
 
@@ -56,7 +59,7 @@ We will soon release a suite of R Tools that includes the following function cat
 
 ## Completed Projects
 
-- [Northwest Boreal LCC](https://nwb.ualberta.ca)
+- [Candidate Benchmark Networks for the Northwest Boreal Region](https://github.com/beaconsproject/nwb)
 - [SFI conservation value assessment tool](https://borealbirds.ca/conservation-value-assessment-tool/)
 <br>
 
