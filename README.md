@@ -58,7 +58,7 @@ We will soon release a QGIS plugin and tutorial for creating a catchment dataset
 | <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="250"></a> | 
 <br>
 
-## Completed Projects
+## Project Websites
 
 - [Candidate Benchmark Networks for the Northwest Boreal Region](https://github.com/beaconsproject/nwb)
 - [SFI conservation value assessment tool](https://borealbirds.ca/conservation-value-assessment-tool/)
