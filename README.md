@@ -20,12 +20,21 @@ Within these pages, we provide information on tools and methods that we use for 
 
 | Geopackage Creator | Disturbance Explorer | Hydrology Explorer |
 | :---: | :---: | :---: |
-|<a href="https://beaconsproject.shinyapps.io/geopackage_creator/" target="_blank"><img align="center" src="pics/geopackage_creator.png" width="250"></a> | <a href="https://beaconsproject.shinyapps.io/disturbance_explorer/" target="_blank"><img align="center" src="pics/disturbance_explorer.png" width="250"></a> | <a href="https://beaconsproject.shinyapps.io/hydrology_explorer_v3/" target="_blank"><img align="center" src="pics/hydrology_explorer.png" width="250"></a> |
+|<a href="https://github.com/beaconsproject/geopackage_creator/" target="_blank"><img align="center" src="pics/geopackage_creator.png" width="250"></a> | <a href="https://github.com/beaconsproject/disturbance_explorer/" target="_blank"><img align="center" src="pics/disturbance_explorer.png" width="250"></a> | <a href="https://github.com/beaconsproject/hydrology_explorer" target="_blank"><img align="center" src="pics/hydrology_explorer.png" width="250"></a> |
 
 | Disturbance Validation | Wolverine Survey Design |
 | :---: | :---: | 
-| <a href="https://beaconsproject.shinyapps.io/disturbance_validation/" target="_blank"><img align="center" src="pics/disturbance_validation.png" width="250"></a> | <a href="https://beaconsproject.shinyapps.io/wolverines/" target="_blank"><img align="center" src="pics/wolverines_survey.png" width="250"></a> |
-<br>
+| <a href="https://github.com/beaconsproject/disturbance_validation" target="_blank"><img align="center" src="pics/disturbance_validation.png" width="250"></a> | <a href="https://github.com/beaconsproject/wolverines/" target="_blank"><img align="center" src="pics/wolverines_survey.png" width="250"></a> |
+
+- **Geopackage Creator** assists users with creating a geopackage file for use with the Disturbance Explorer app.
+
+- **Disturbance Explorer** generates human footprint or undisturbed areas maps using regional-scale human surface disturbance data. 
+
+- **Hydrology Explorer** identifies areas upstream and downstream of an area of interest (AOI; e.g., conservation area, mine site, etc.) and associated hydrologic metrics, using the BEACONs catchment dataset as building blocks.
+
+- **Disturbance Validation** enables users to examine linear and areal surface disturbance features along with several satellite imagery sources and randomly select individual features and their associated attributes. 
+
+- **Wolverine Survey Design** supports the design of a grid-based camera trap survey for wolverines and other mammals in the Dawson Region of the Yukon.
 
 We have additional Shiny Apps under-development: 
 - **KBA or Conservation Area Explorer**: This app designs new conservation areas and evaluates and designs conservation area networks based on new and/or existing conservation areas. Functions include evaluation of intactness, size, hydrologic connectivity, upstream areas, and representation.
