@@ -26,7 +26,7 @@ Within these pages, we provide information on tools and methods that we use for 
 | :---: | :---: | 
 | <a href="https://github.com/beaconsproject/disturbance_validation" target="_blank"><img align="center" src="pics/disturbance_validation.png" width="250"></a> | <a href="https://github.com/beaconsproject/wolverines/" target="_blank"><img align="center" src="pics/wolverines_survey.png" width="250"></a> |
 
-- **Geopackage Creator** assists users with creating a geopackage file for use with the Disturbance Explorer app.
+- **Geopackage Creator** assists users with creating a geopackage file for use with the Disturbance Explorer app. Utility is presently restricted to a region intersecting the Yukon, NWT, and BC.
 
 - **Disturbance Explorer** generates human footprint or undisturbed areas maps using regional-scale human surface disturbance data. 
 
@@ -37,7 +37,7 @@ Within these pages, we provide information on tools and methods that we use for 
 - **Wolverine Survey Design** supports the design of a grid-based camera trap survey for wolverines and other mammals in the Dawson Region of the Yukon.
 
 We have additional Shiny Apps under-development: 
-- **KBA or Conservation Area Explorer**: This app designs new conservation areas and evaluates and designs conservation area networks based on new and/or existing conservation areas. Functions include evaluation of intactness, size, hydrologic connectivity, upstream areas, and representation.
+- **KBA or Conservation Area Explorer**: This app supports the design of new conservation areas and assembles and evaluates conservation area networks based on new and/or existing conservation areas. Functions include evaluation of intactness, size, hydrologic connectivity, upstream areas, and representation.
 - **Movement Mapper** and **Movement Explorer**: These apps use animal location data to identify areas of annual & seasonal use and migration pathways. 
 <br>
 
@@ -57,14 +57,14 @@ We will soon release a suite of R Tools that includes the following function cat
 
 ## QGIS Plugins
 
-We will soon release a QGIS plugin and tutorial for creating a catchment dataset with stream flow attributes that work with BEACONs' Builder software and Shiny Apps (e.g., Hydrology Explorer).
+We will soon release a QGIS plugin and tutorial for creating a catchment dataset with stream flow attributes that work with BEACONs' Builder software, R functions, and Shiny Apps (e.g., Hydrology Explorer).
 <br><br>
 
 ## Methods
 
 | Disturbance Mapping |
 | :---: |
-| <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="250"></a> | 
+| <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="250"></a> | <br>
 <br>
 
 ## Project Websites
