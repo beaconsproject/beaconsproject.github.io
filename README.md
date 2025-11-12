@@ -75,8 +75,8 @@ We will soon release a QGIS plugin and tutorial for creating a catchment dataset
 
 ## Publications (supporting material)
 
-- [Insect paper](https://github.com/beaconsproject/insect-mdr-simulation)
-- [Intactness paper](https://github.com/prvernier/intactness)
+- Edwards et al. 2022. Conservation planning integrating natural disturbances: Estimating minimum reserve sizes for an insect disturbance in the boreal forest of eastern Canada. [PLOS One Open Access](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268236), [Supplemental materials](https://github.com/beaconsproject/insect-mdr-simulation)
+- Vernier et al. 2022. Comparing Global and Regional Maps of Intactness in the Boreal Region of North America: Implications for Conservation Planning in One of the World’s Remaining Wilderness Areas. [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2022.843053/full), [Supplemental materials](https://github.com/prvernier/intactness)
 <br>
 
 ## Presentations
