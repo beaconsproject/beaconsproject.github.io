@@ -24,7 +24,7 @@ Within these pages, we provide information on tools and methods that we use for 
 
 | Disturbance Validation | Wolverine Survey Design |
 | :---: | :---: | 
-| <a href="https://github.com/beaconsproject/disturbance_validation" target="_blank"><img align="center" src="pics/disturbance_validation.png" width="250"></a> | <a href="https://github.com/beaconsproject/wolverines/" target="_blank"><img align="center" src="pics/wolverines_survey.png" width="250"></a> |
+| <a href="[https://github.com/beaconsproject/disturbance_validation](https://github.com/beaconsproject/disturbance_mapping/tree/master)" target="_blank"><img align="center" src="pics/disturbance_validation.png" width="250"></a> | <a href="https://github.com/beaconsproject/wolverines/" target="_blank"><img align="center" src="pics/wolverines_survey.png" width="250"></a> |
 
 - **Geopackage Creator** assists users with creating a geopackage file for use with the Disturbance Explorer app. Utility is presently restricted to a region intersecting the Yukon, NWT, and BC.
 
