@@ -64,7 +64,9 @@ We will soon release a QGIS plugin and tutorial for creating a catchment dataset
 
 | Disturbance Mapping |
 | :---: |
-| <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="250"></a> | <br>
+| <a href="https://github.com/beaconsproject/disturbance_mapping"><img align="center" src="pics/disturbance_mapping.png" width="250"></a> | 
+
+<br>
 <br>
 
 ## Project Websites
