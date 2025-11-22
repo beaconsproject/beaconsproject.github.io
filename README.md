@@ -59,7 +59,7 @@ We will soon release a suite of R Tools that includes the following function cat
 
 ## QGIS Plugins
 
-We will soon release a QGIS plugin and tutorial for creating a catchment dataset with stream flow attributes that work with BEACONs' Builder software, R functions, and Shiny Apps (e.g., Hydrology Explorer).
+We will soon release a QGIS plugin and tutorial for creating a catchment dataset with stream flow attributes that work with BEACONs' Builder software, R functions, and Shiny Apps (e.g., Hydrology Explorer). Catchments are approximate drainage areas for stream segments and capture latitudinal and longitudinal hydrologic connectivity.
 <br><br>
 
 ## Methods
