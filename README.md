@@ -18,7 +18,7 @@ Within these pages, we provide information on tools and methods that we use for 
  
 ## Shiny Apps
 
-Click the images below to redirect to repositories for each of the Shiny Apps. Demo datasets for trying out the tools are embedded in Disturbance Explorer and Hydrology Explorer.
+Click the images below to redirect to repositories for each of the Shiny Apps. Disturbance Explorer and Hydrology Explorer have embedded demo datasets for trying out the tools.
 
 | Geopackage Creator | Disturbance Explorer | Hydrology Explorer |
 | :---: | :---: | :---: |
