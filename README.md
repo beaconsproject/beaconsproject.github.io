@@ -18,6 +18,8 @@ Within these pages, we provide information on tools and methods that we use for 
  
 ## Shiny Apps
 
+Click the images below to redirect to repositories for each of the Shiny Apps. Demo datasets for trying out the tools are embedded in Disturbance Explorer and Hydrology Explorer.
+
 | Geopackage Creator | Disturbance Explorer | Hydrology Explorer |
 | :---: | :---: | :---: |
 |<a href="https://github.com/beaconsproject/geopackage_creator/" target="_blank"><img align="center" src="pics/geopackage_creator.png" width="250"></a> | <a href="https://github.com/beaconsproject/disturbance_explorer/" target="_blank"><img align="center" src="pics/disturbance_explorer.png" width="250"></a> | <a href="https://github.com/beaconsproject/hydrology_explorer" target="_blank"><img align="center" src="pics/hydrology_explorer.png" width="250"></a> |
