@@ -96,5 +96,5 @@ BC PARF Forum 2022 (Dec 2022)
 
 ## Dataset
 
-boreal Catchment dataset (1:1 Million)
-- [Data](http://206.12.102.149/boreal_catchments_v18.zip)
+Boreal Catchment dataset (1:1 Million)
+- [Download ZIP file](http://206.12.102.149/boreal_catchments_v18.zip)
