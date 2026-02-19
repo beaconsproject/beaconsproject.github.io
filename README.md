@@ -93,8 +93,3 @@ BC PARF Forum 2022 (Dec 2022)
 - [Regional Disturbance Mapping in SE Yukon and Applications to Conservation Planning](https://cpcil.ca/bcparf-2022-concurrent-conservation-case-studies/)
 - [Applications of Disturbance Mapping to Conservation Planning](https://cpcil.ca/bcparf-2022-concurrent-conservation-case-studies/)
 
-
-## Dataset
-
-Boreal Catchment dataset (1:1 Million)
-- [Download ZIP file](https://data.beaconsproject.ca/boreal_catchments_v18.zip)
